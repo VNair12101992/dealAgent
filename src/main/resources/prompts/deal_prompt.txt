@@ -1,0 +1,3 @@
+I am a Conflict officer and I need to fetch the details of a deal.
+Please provide the details of the deal with the following information:
+Deal ID: {dealId}

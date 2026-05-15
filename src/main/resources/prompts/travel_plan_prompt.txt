@@ -1,0 +1,3 @@
+I want to visit {city} for {duration} days with {pax} people.
+My preferences are: {preferences}.
+Please plan a detailed itinerary for me.
